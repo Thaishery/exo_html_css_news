@@ -4,7 +4,7 @@ Le CRP-Beauvoir sort son journal d'étudiants :muscle:
 
 Votre mission, si vous l'acceptez, sera d'intégrer la maquette du site.
 
-![homepage](home.png)
+![homepage](home.PNG)
 
 ## Infos
 
